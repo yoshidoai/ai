@@ -1,0 +1,9 @@
+// Fake dependency graph for video enhancement pipeline
+export const videoPipelineGraph = {
+  input: ['decode'],
+  decode: ['denoise', 'stabilize'],
+  denoise: ['toneAdjust'],
+  stabilize: ['toneAdjust'],
+  toneAdjust: ['output'],
+  output: []
+};
