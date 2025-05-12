@@ -103,6 +103,13 @@ console.log(tweet);
 | `/community`     | Roadmap and contributor guidelines                      |
 
 ---
+## 🖼️ Image Strategy Layer (New)
+
+The system now uses intelligent presets depending on the intent of the post:
+- **Ad Creatives**: Optimized for clarity, call-to-action, brand presence
+- **Lifestyle Posts**: Optimized for emotional tone, naturalism, authenticity
+
+Code: [`/ai/image-strategies`](./ai/image-strategies)
 
 ## 🗺️ Roadmap
 
