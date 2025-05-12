@@ -1,0 +1,8 @@
+{
+  "contrast": 1.4,
+  "saturation": 1.2,
+  "highlight_brand_colors": true,
+  "text_safe_area": true,
+  "composition": "center-weighted",
+  "style": "digital/clean"
+}
