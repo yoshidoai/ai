@@ -1,0 +1,8 @@
+{
+  "contrast": 1.0,
+  "saturation": 1.0,
+  "natural_lighting": true,
+  "faces_emphasized": true,
+  "composition": "rule-of-thirds",
+  "style": "photo/natural"
+}
